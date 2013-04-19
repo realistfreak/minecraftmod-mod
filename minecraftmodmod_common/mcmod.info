@@ -1,0 +1,21 @@
+[
+{
+"modid": "MMM",
+"name": "Minecraft-Mod Mod",
+"description": "The Mod that Mods Your Minecraft Modularly!",
+"version": "0.0.0.1",
+"url": "www.github.com/realistfreak/minecraftmod-mod",
+"updateurl": "",
+"authorList": [
+"realistfreak"
+],
+"credits": "",
+"logoFile": "",
+"screenshots": [
+""
+],
+"parent": "",
+"dependencies": [
+]
+}
+]
